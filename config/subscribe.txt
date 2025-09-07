@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
+https://iptv.hacks.tools/domestic/IPv4%20%E7%9B%B4%E6%92%AD%E6%BA%90/all/m3u
+https://iptv.hacks.tools/domestic/IPv6%20%E7%9B%B4%E6%92%AD%E6%BA%90/all/m3u
